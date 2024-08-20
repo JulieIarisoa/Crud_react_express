@@ -1,0 +1,142 @@
+@media(min-width:400px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+    h1{
+        color: aliceblue;
+    }
+}
+
+@media(min-width:500px){
+    body{
+        background-color: red;
+    }
+    h1{
+        color: rgb(186, 98, 207);
+    }
+}
+
+@media(min-width:600px){
+    body{
+        background-color: rgb(255, 196, 0);
+    }
+}
+
+@media(min-width:700px){
+    body{
+        background-color: rgb(115, 255, 0);
+    }
+}
+
+@media(min-width:800px){
+    body{
+        background-color: rgb(0, 255, 242);
+    }
+}
+
+@media(min-width:900px){
+    body{
+        background-color: rgb(38, 0, 255);
+    }
+}
+
+@media(min-width:1000px){
+    body{
+        background-color: rgb(153, 0, 255);
+    }
+}
+
+@media(min-width:1100px){
+    body{
+        background-color: rgb(255, 0, 191);
+    }
+}
+
+@media(min-width:1200px){
+    body{
+        background-color: rgb(112, 78, 81);
+    }
+}
+
+@media(min-width:1300px){
+    body{
+        background-color: rgb(2, 2, 1);
+    }
+}
+
+@media(min-width:1400px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
+
+@media(min-width:1500px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
+@media(min-width:1600px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
+
+@media(min-width:1700px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
+
+@media(min-width:1800px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
+
+@media(min-width:1900px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
+
+@media(min-width:2000px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
+
+@media(min-width:2100px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
+
+@media(min-width:2200px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
+
+@media(min-width:2300px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
+
+@media(min-width:2400px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
+
+@media(min-width:2500px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
+
+@media(min-width:2600px){
+    body{
+        background-color: rgb(146, 146, 146);
+    }
+}
